@@ -40,7 +40,7 @@ Enter grade 4: 64
 Your grades:
 92
 64 *dropped*
-78
+77
 64
 
 Average of grades is 77.67
